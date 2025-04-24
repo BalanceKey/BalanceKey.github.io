@@ -105,8 +105,6 @@ content:
           Following my PhD thesis work, I am continuing to use individualized virtual brain models to predict stimulation response in drug-resistant epilepsy.
           Here, I am using brain imaging data to parametrize the virtual brain twins and performing simulations to compare the outcome to the empirical data.
           Using a <mark>genetic algorithm</mark> approach, I am estimating the parameters of the virtual brain twin that can predict the empirical data.
-
-
       - layout: left
         title: Theoretical Neuroscience Group - Institut de Neurosciences des Systemes
         link: https://ins-amu.fr/
@@ -133,7 +131,6 @@ content:
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my PhD at Aix-Marseille University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
 #          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
