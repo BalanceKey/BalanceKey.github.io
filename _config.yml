@@ -60,35 +60,35 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Programming</mark>, <mark>Brain imaging</mark>, <mark>Modelling</mark> and <mark>Simulations</mark>.
 #
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Virtual epileptic patient cohort
-#        link: github.com/BalanceKey/virtual_epilepsy_patient_cohort
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/BalanceKey/virtual_epilepsy_patient_cohort
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          Building virtual brain twins and simulated brain activity of real patients with drug-resistant epilepsy
-#        description: | # this will include new lines to allow paragraphs
-#          The goal of this project was to build a synthetic copy of an empirical dataset of 30 patients with drug-resistant epilepsy.
-##          People with drug-resistant epilepsy suffer from intractable seizures and can be treated with brain surgery.
-##          Their chance of becoming seizure-free heavily relies on proper diagnosis of brain regions responsible for seizure generation, known as epileptogenic zones (EZ).
-##          In the clinic, empirical recordings of brain activity are used to estimate these brain regions.
-##          However, the underlying ground truth is not available.
-##          We built a virtual cohort of 30 patients with drug-resistant epilepsy, using individual patients’ data to simulate their epileptic brain activity.
-##          This brain modeling based on personalized data is referred to as a virtual brain twin.
-##          The key parameters of these virtual brain twins including the EZ settings serve as the ground-truth.
-##          Epileptic brain activity is simulated at the whole-brain level and mapped onto intracranial sensors to mimic real recordings. We quantified how well the synthetic signal captured features from the empirical data.
-##          For each virtual brain twin, we generated spontaneous seizures, stimulated seizures and interictal activity.
-##          This cohort is made available to the scientific community to benchmark methods such as estimation of EZ and source localization.
-##
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Virtual epileptic patient cohort
+        link: github.com/BalanceKey/virtual_epilepsy_patient_cohort
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/BalanceKey/virtual_epilepsy_patient_cohort
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Building virtual brain twins and simulated brain activity of real patients with drug-resistant epilepsy
+        description: | # this will include new lines to allow paragraphs
+          The goal of this project was to build a synthetic copy of an empirical dataset of 30 patients with drug-resistant epilepsy.
+#          People with drug-resistant epilepsy suffer from intractable seizures and can be treated with brain surgery.
+#          Their chance of becoming seizure-free heavily relies on proper diagnosis of brain regions responsible for seizure generation, known as epileptogenic zones (EZ).
+#          In the clinic, empirical recordings of brain activity are used to estimate these brain regions.
+#          However, the underlying ground truth is not available.
+#          We built a virtual cohort of 30 patients with drug-resistant epilepsy, using individual patients’ data to simulate their epileptic brain activity.
+#          This brain modeling based on personalized data is referred to as a virtual brain twin.
+#          The key parameters of these virtual brain twins including the EZ settings serve as the ground-truth.
+#          Epileptic brain activity is simulated at the whole-brain level and mapped onto intracranial sensors to mimic real recordings. We quantified how well the synthetic signal captured features from the empirical data.
+#          For each virtual brain twin, we generated spontaneous seizures, stimulated seizures and interictal activity.
+#          This cohort is made available to the scientific community to benchmark methods such as estimation of EZ and source localization.
+#
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
