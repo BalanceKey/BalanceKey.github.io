@@ -131,23 +131,23 @@ content:
 #          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: left
-              title: Grenoble INP - ENSIMAG
-              caption: 2017 - 2020
-              sub_title: Engineering degree in Computer Science and Applied Mathematics
-              quote: >
-                ENSIMAG is recognized as one of the best French engineering schools in computer science.
-              description: | # this will include new lines to allow paragraphs
-                During my studies at ENSIMAG I learnt the basis of programming and applied mathematics.
-                I was lucky to learn from very passionate individuals in good programming practices, to apply what we learned in many different programming projects throughout the year and to socialize during the many student association events.
+        title: Grenoble INP - ENSIMAG
+        caption: 2017 - 2020
+        sub_title: Engineering degree in Computer Science and Applied Mathematics
+        quote: >
+          ENSIMAG is recognized as one of the best French engineering schools in computer science.
+        description: | # this will include new lines to allow paragraphs
+          During my studies at ENSIMAG I learnt the basis of programming and applied mathematics.
+          I was lucky to learn from very passionate individuals in good programming practices, to apply what we learned in many different programming projects throughout the year and to socialize during the many student association events.
 
       - layout: left
-              title: Grenoble Alpes University
-              caption: 2015 - 2017
-              sub_title: Bachelor's in Mathematics and Computer science
-              quote: >
-                Grenoble Alpes University is a highly reputable French university.
-              description: | # this will include new lines to allow paragraphs
-                During my studies I learnt programming for the first time and got to fall in love with the beauty of mathematics !
+        title: Grenoble Alpes University
+        caption: 2015 - 2017
+        sub_title: Bachelor's in Mathematics and Computer science
+        quote: >
+          Grenoble Alpes University is a highly reputable French university.
+        description: | # this will include new lines to allow paragraphs
+          During my studies I learnt programming for the first time and got to fall in love with the beauty of mathematics !
 
   - title: A Little More About Me
     layout: text
