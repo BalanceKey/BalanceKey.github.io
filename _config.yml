@@ -124,11 +124,30 @@ content:
         title: Aix-Marseille University
         caption: 2021 - 2024
         sub_title: PhD in Neuroscience
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my PhD at Aix-Marseille University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 #          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: left
+              title: Grenoble INP - ENSIMAG
+              caption: 2017 - 2020
+              sub_title: Engineering degree in Computer Science and Applied Mathematics
+              quote: >
+                ENSIMAG is recognized as one of the best French engineering schools in computer science.
+              description: | # this will include new lines to allow paragraphs
+                During my studies at ENSIMAG I learnt the basis of programming and applied mathematics.
+                I was lucky to learn from very passionate individuals in good programming practices, to apply what we learned in many different programming projects throughout the year and to socialize during the many student association events.
+
+      - layout: left
+              title: Grenoble Alpes University
+              caption: 2015 - 2017
+              sub_title: Bachelor's in Mathematics and Computer science
+              quote: >
+                Grenoble Alpes University is a highly reputable French university.
+              description: | # this will include new lines to allow paragraphs
+                During my studies I learnt programming for the first time and got to fall in love with the beauty of mathematics !
 
   - title: A Little More About Me
     layout: text
