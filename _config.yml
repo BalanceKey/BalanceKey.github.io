@@ -90,33 +90,33 @@ content:
           For each virtual brain twin, we generated spontaneous seizures, stimulated seizures and interictal activity.
           This cohort is made available to the scientific community to benchmark methods such as estimation of EZ and source localization.
 
-#  - title: Experience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Theoretical Neuroscience Group - Institut de Neurosciences des Systemes
-#        link: ins-amu.fr
-#        # link_text: boringcompany.com
-#        sub_title: Postdoctoral Researcher
-#        caption: January 2025 - Present
-#        quote: >
-#          Using virtual brain twins to predict brain stimulation responses in-silico.
-#        description: | # this will include new lines to allow paragraphs
-#          Following my PhD thesis work, I am continuing to use individualized virtual brain models to predict stimulation response in drug-resistant epilepsy. Here, I am using brain imaging data to parametrize the virtual brain twins and performing simulations to compare the outcome to the empirical data. Using a <mark>genetic algorithm</mark> approach, I am estimating the parameters of the virtual brain twin that can predict the empirical data.
-##      - layout: left
-##        title: Theoretical Neuroscience Group - Institut de Neurosciences des Systemes
-##        link: https://ins-amu.fr/
-##        # link_text: boringcompany.com
-##        sub_title: PhD candidate
-##        caption: May 2021 - December 2024
-##        quote: >
-##          Modeling brain stimulation for diagnosis of drug-resistant epilepsy
-##        description: | # this will include new lines to allow paragraphs
-##          I completed a PhD in Computational Neuroscience, using virtual brain models to diagnose drug-resistant epilepsy.
-##          My project was focused on modelling the effects of <mark>brain stimulation</mark> in epilepsy, in particular when triggering seizures.
-##          To this end, I extended an existing model to account for brain stimulation effects in seizure generation in epilepsy, which I tested and validated in a synthetic cohort of 30 patients with drug-resistant epilepsy.
-##          In addition, the modelling framework was extented for high-resolution virtual brain models and non-invasive stimulation, demonstrating a potential methodology for purely <mark>non-invasive diagnosis</mark> of drug-resistant epilepsy.
-##
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Theoretical Neuroscience Group - Institut de Neurosciences des Systemes
+        link: ins-amu.fr
+        # link_text: boringcompany.com
+        sub_title: Postdoctoral Researcher
+        caption: January 2025 - Present
+        quote: >
+          Using virtual brain twins to predict brain stimulation responses in-silico.
+        description: | # this will include new lines to allow paragraphs
+          Following my PhD thesis work, I am continuing to use individualized virtual brain models to predict stimulation response in drug-resistant epilepsy. Here, I am using brain imaging data to parametrize the virtual brain twins and performing simulations to compare the outcome to the empirical data. Using a <mark>genetic algorithm</mark> approach, I am estimating the parameters of the virtual brain twin that can predict the empirical data.
+      - layout: left
+        title: Theoretical Neuroscience Group - Institut de Neurosciences des Systemes
+        link: https://ins-amu.fr/
+        # link_text: boringcompany.com
+        sub_title: PhD candidate
+        caption: May 2021 - December 2024
+        quote: >
+          Modeling brain stimulation for diagnosis of drug-resistant epilepsy
+        description: | # this will include new lines to allow paragraphs
+          I completed a PhD in Computational Neuroscience, using virtual brain models to diagnose drug-resistant epilepsy.
+          My project was focused on modelling the effects of <mark>brain stimulation</mark> in epilepsy, in particular when triggering seizures.
+          To this end, I extended an existing model to account for brain stimulation effects in seizure generation in epilepsy, which I tested and validated in a synthetic cohort of 30 patients with drug-resistant epilepsy.
+          In addition, the modelling framework was extented for high-resolution virtual brain models and non-invasive stimulation, demonstrating a potential methodology for purely <mark>non-invasive diagnosis</mark> of drug-resistant epilepsy.
+#
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
